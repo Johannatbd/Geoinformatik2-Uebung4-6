@@ -1,0 +1,7 @@
+# Lokale Quelldaten aus Übung 6
+Uebung6/data/
+Uebung6/points.geojson
+
+# Bevölkerungskacheln nicht veröffentlichen
+Uebung6/tiles/population.pmtiles
+Uebung6/tiles_xyz/population/
